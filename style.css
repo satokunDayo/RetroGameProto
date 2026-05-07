@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background: black;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  position: relative; /* UI の基準にするなら必要 */
+}
+
+canvas {
+  cursor: none;
+}
